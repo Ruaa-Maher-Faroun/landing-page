@@ -1,0 +1,8 @@
+@import './base.css';
+
+.ha{
+    font-family:var(--mainFont)
+}
+.hb{
+    font-family:var(--subFont)
+}
