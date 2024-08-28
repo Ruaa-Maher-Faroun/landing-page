@@ -22,7 +22,6 @@ ul {
 }
 
 .container {
-    background-color: red;
     margin: auto;
     width: calc(100% - 120px)
 }
